@@ -6,3 +6,7 @@
 - HTML5
 - CSS3
 
+## Estilização
+- design limpo e minimalista para facilitar a leitura 
+- utilização de CSS para estilizar o Currículo, incluindo fontes, cores, espaços e
+
