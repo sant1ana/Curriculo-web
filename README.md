@@ -1,4 +1,4 @@
-# Meu Currículo online
+# Meu Currículo web
 
 - Criei um Currículo básico em HTML e CSS para praticar e consolidar meu aprendizado.
 
